@@ -50,3 +50,4 @@ describe "Costume" do
   end
 
 end
+
